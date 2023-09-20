@@ -21,6 +21,30 @@ img {
     gap: 52px;
 }
 
+#barberry {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+}
+
+#chilli {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+}
+
+#pepper {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+}
+
+#saffron {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 200px;
+}
+
 
 /* do not edit this footer */
 .footer {
