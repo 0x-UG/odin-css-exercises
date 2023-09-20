@@ -1,1 +1,1 @@
-This repo is where I'm solving the 6 css exercises in T.O.P
+This repo is where I'll be solving ALL CSS related exercises from The Odin Project
